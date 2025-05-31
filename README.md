@@ -12,7 +12,7 @@ Aplicativo Flutter para consulta e gerenciamento de CEPs usando ViaCEP e Back4Ap
 ## Configuração
 
 1. Clone o repositório
-2. Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
+2. Edite o arquivo `.env` na raiz do projeto com as seguintes variáveis:
 ```
 BACK4APP_APPLICATION_ID=seu_application_id
 BACK4APP_CLIENT_KEY=seu_client_key
