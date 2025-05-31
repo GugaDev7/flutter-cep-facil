@@ -39,3 +39,15 @@ BACK4APP_SERVER_URL=https://parseapi.back4app.com
 - Dio (para requisições HTTP)
 - Parse SDK (para integração com Back4App)
 - Flutter Dotenv (para gerenciamento de variáveis de ambiente)
+
+## 📧 Contato
+
+**Autor:** Gustavo Rodrigues
+
+**Email:** gustavo.rodriguesrj@outlook.com
+
+**LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/gustavo-rodrigues-167264361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+Desenvolvido com ❤️ usando Flutter.
